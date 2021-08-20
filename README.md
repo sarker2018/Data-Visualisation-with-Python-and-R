@@ -1,8 +1,10 @@
-# VIsaualisation
+# Visaualisation
+Frequently used data visualisations can be found in the code section; both for python and R
+
 ## A meaningful picture or painting tells thousands of words without using a single word. 
 
 ## Importance of Visualisation
-* Even before the invent of speech communications, our ancestors used to communicate quite successfully with paintings such as cave paintings, paintings or art of the rocks. Till today, we have numerous scientific proofs of that types of communications. 
+* Even before the invent of speech communications, our ancestors used to communicate quite successfully with paintings such as cave paintings, paintings or art on the rocks. Till today, we have numerous scientific proofs of that types of communications. 
 
 <br><br>
 ![grafik](https://user-images.githubusercontent.com/61450446/130199469-b52cf6ef-f8a2-4676-bebc-ad96b3a874bc.png)
@@ -23,6 +25,5 @@
 
 ## Python Visualisation
 ## R visualisation
-## R ShinyApp Visualisation
-## Dashboard with Power BI
+
 
